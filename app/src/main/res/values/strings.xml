@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM Example</string>
+    <string name="form_title">Contador de caracteres</string>
+    <string name="form_hint">Digite aqui seu texto</string>
+    <string name="form_submit">Enviar</string>
+    <string name="result_title">O número de caracteres é</string>
+</resources>
