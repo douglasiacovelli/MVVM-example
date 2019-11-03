@@ -9,8 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".result.ResultActivity"></activity>
-        <activity android:name=".form.FormActivity">
+        <activity android:name=".result.ResultActivity"/>
+        <activity android:name=".form.FormActivity"
+            android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
